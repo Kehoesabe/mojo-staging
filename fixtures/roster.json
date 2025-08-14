@@ -1,0 +1,77 @@
+[
+  {
+    "id": "1",
+    "name": "Jalen Hurts",
+    "position": "QB",
+    "team": "PHI",
+    "opponent": "DAL",
+    "injuryStatus": "HEALTHY",
+    "trend": {
+      "snapShare": 100
+    }
+  },
+  {
+    "id": "2",
+    "name": "Saquon Barkley",
+    "position": "RB",
+    "team": "PHI",
+    "opponent": "DAL",
+    "injuryStatus": "HEALTHY",
+    "trend": {
+      "snapShare": 72,
+      "redZoneTouches": 6
+    }
+  },
+  {
+    "id": "3",
+    "name": "A.J. Brown",
+    "position": "WR",
+    "team": "PHI",
+    "opponent": "DAL",
+    "injuryStatus": "HEALTHY",
+    "trend": {
+      "snapShare": 92,
+      "targetShare": 29
+    }
+  },
+  {
+    "id": "4",
+    "name": "DeVonta Smith",
+    "position": "WR",
+    "team": "PHI",
+    "opponent": "DAL",
+    "injuryStatus": "HEALTHY",
+    "trend": {
+      "snapShare": 90,
+      "targetShare": 22
+    }
+  },
+  {
+    "id": "5",
+    "name": "Dallas Goedert",
+    "position": "TE",
+    "team": "PHI",
+    "opponent": "DAL",
+    "injuryStatus": "QUESTIONABLE",
+    "trend": {
+      "snapShare": 78,
+      "targetShare": 16
+    }
+  },
+  {
+    "id": "6",
+    "name": "Eagles D/ST",
+    "position": "DST",
+    "team": "PHI",
+    "opponent": "DAL",
+    "injuryStatus": "HEALTHY"
+  },
+  {
+    "id": "7",
+    "name": "Jake Elliott",
+    "position": "K",
+    "team": "PHI",
+    "opponent": "DAL",
+    "injuryStatus": "HEALTHY"
+  }
+]

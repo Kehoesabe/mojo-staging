@@ -1,0 +1,93 @@
+{
+  "events": [
+    {
+      "ts": 1703548800000,
+      "type": "KICKOFF",
+      "description": "Game underway at Lincoln Financial Field."
+    },
+    {
+      "ts": 1703548860000,
+      "type": "BIG_PLAY",
+      "description": "A.J. Brown hauls in a 28-yard pass on 2nd & 8 (to DAL 44).",
+      "team": "PHI",
+      "player": "A.J. Brown"
+    },
+    {
+      "ts": 1703548920000,
+      "type": "TD",
+      "description": "Jalen Hurts scrambles 9 yards for a touchdown.",
+      "team": "PHI",
+      "player": "Jalen Hurts"
+    },
+    {
+      "ts": 1703548980000,
+      "type": "XP",
+      "description": "Jake Elliott extra point is good.",
+      "team": "PHI",
+      "player": "Jake Elliott"
+    },
+    {
+      "ts": 1703549100000,
+      "type": "TURNOVER",
+      "description": "Interception by Eagles D/ST at midfield.",
+      "team": "PHI"
+    },
+    {
+      "ts": 1703549160000,
+      "type": "FG",
+      "description": "Jake Elliott nails a 47-yard field goal.",
+      "team": "PHI",
+      "player": "Jake Elliott"
+    },
+    {
+      "ts": 1703549340000,
+      "type": "TD",
+      "description": "Saquon Barkley punches it in from the 3-yard line.",
+      "team": "PHI",
+      "player": "Saquon Barkley"
+    },
+    {
+      "ts": 1703549580000,
+      "type": "BIG_PLAY",
+      "description": "DeVonta Smith makes a sideline toe-tap catch for 21 yards.",
+      "team": "PHI",
+      "player": "DeVonta Smith"
+    },
+    {
+      "ts": 1703549700000,
+      "type": "TD",
+      "description": "A.J. Brown beats single coverage for a 16-yard touchdown.",
+      "team": "PHI",
+      "player": "A.J. Brown"
+    },
+    {
+      "ts": 1703549760000,
+      "type": "HALF",
+      "description": "Halftime in Philadelphia."
+    },
+    {
+      "ts": 1703549900000,
+      "type": "FG",
+      "description": "Jake Elliott adds a 41-yard field goal.",
+      "team": "PHI",
+      "player": "Jake Elliott"
+    },
+    {
+      "ts": 1703550040000,
+      "type": "PUNT",
+      "description": "Cowboys forced to punt from their 35."
+    },
+    {
+      "ts": 1703550160000,
+      "type": "TD",
+      "description": "Jalen Hurts finds Dallas Goedert for a 7-yard TD.",
+      "team": "PHI",
+      "player": "Dallas Goedert"
+    },
+    {
+      "ts": 1703550280000,
+      "type": "END",
+      "description": "Eagles close out a convincing home win."
+    }
+  ]
+}
